@@ -6,6 +6,7 @@ This website is a collection of my personal prototypubg work for the **CART 253*
 ## Useful Links
 - [Reflective Journal](journal.md)
 - [My GitHub Pages](https://erynity.github.io/cart253/)
+- [Instruction Challenge](/topics/instructions/instructions-challenge/index.html)
 
 ## My Prototypes
 - [x]  [Prototyping: Website](https://erynity.github.io/cart253/README.md)
