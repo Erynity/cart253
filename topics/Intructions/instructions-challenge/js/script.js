@@ -81,7 +81,7 @@ function drawCloud2() {
 function drawMountain() {
     // A sun
     push();
-    fill(140, 116, 78);
+    fill(140, 116, 80);
     noStroke();
     ellipse(10, 550, 1000, 200);
     ellipse(155, 500, 400, 600);
