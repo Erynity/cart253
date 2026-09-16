@@ -1,15 +1,14 @@
 /**
- * Title of Project
- * Author Name
+ * Instructions Prototype 1
+ * Marie Eryne Yow Chok Nee (40352963)
  * 
- * HOW EMBARRASSING! I HAVE NO DESCRIPTION OF MY PROJECT!
- * PLEASE REMOVE A GRADE FROM MY WORK IF IT'S GRADED!
+ * Prototype 2 - Abstract Prototype
  */
 
 "use strict";
 
 /**
- * OH LOOK I DIDN'T DESCRIBE SETUP!!
+ * Creates canva
 */
 function setup() {
 
@@ -17,7 +16,7 @@ function setup() {
 
 
 /**
- * OOPS I DIDN'T DESCRIBE WHAT MY DRAW DOES!
+ * Draws the landscape
 */
 function draw() {
 
