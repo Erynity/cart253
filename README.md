@@ -9,7 +9,7 @@ This website is a collection of my personal prototypubg work for the **CART 253*
 
 ## My Challenges
 - [x] [Hello, World! Challenge](https://github.com/Erynity/cart253)
-- [x] [Instruction Challenge](/topics/challenges/instructions-challenge/index.html)
+- [x] [Instruction Challenge](/topics/challenge/instructions-challenge/index.html)
 - [ ] [Variable Challenge]()
 - [ ] [Conditionals Challenge]()
 - [ ] [Events Challenge]()
@@ -21,7 +21,7 @@ This website is a collection of my personal prototypubg work for the **CART 253*
 
 ## My Prototypes
 - [x]  [Prototyping: Website](https://erynity.github.io/cart253/README.md)
-- [ ]  [Prototyping: Instructions](/topics/prototypes/instructions-prototype/index.html)
+- [ ]  [Prototyping: Instructions](/topics/prototype/instructions-prototype/index.html)
 - [ ]  [Prototyping: Variables]()
 - [ ]  [Prototyping: Conditionals]()
 - [ ]  [Prototyping: Events]()
