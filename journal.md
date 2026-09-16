@@ -1,3 +1,5 @@
+[<- Back](/README.md)
+
 # Reflective Journal
 
 ## September 9th, 2026
@@ -10,3 +12,7 @@ Other than that, I'm really excited for this course and I cannot wait to have a 
 Here is a screenshot of how my newly created website looks like so far :
 
 ![new website](/images/new%20website.png)
+
+## September 16th, 2026
+
+
