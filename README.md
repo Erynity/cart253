@@ -4,8 +4,8 @@
 This website is a collection of my personal prototypubg work for the **CART 253** course.
 
 ## Useful Links
-- [Reflective Journal](journal.md)
 - [My GitHub Pages](https://erynity.github.io/cart253/)
+- [Reflective Journal](journal.md)
 
 ## My Challenges
 - [x] [Hello, World! Challenge](https://github.com/Erynity/cart253)
