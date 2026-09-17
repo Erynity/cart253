@@ -24,9 +24,16 @@ __WEBSITE__
 - [x]  [Prototyping: Website](https://erynity.github.io/cart253/README.md)
 
 __INSTRUCTIONS__
-- [x]  [Prototyping: Instructions 1](/topics/prototype/instructions/instructions-prototype1/index.html)
-- [x]  [Prototyping: Instructions 2](/topics/prototype/instructions/instructions-prototype2/index.html)
-- [x]  [Prototyping: Instructions 3](/topics/prototype/instructions/instructions-prototype3/index.html)
+- [x]  [Prototyping: Instructions 1](/topics/prototype/instructions/instructions-prototype1/index.html)\
+Title: Cat Drawing\
+Screenshot: ![](/images)
+
+- [x]  [Prototyping: Instructions 2](/topics/prototype/instructions/instructions-prototype2/index.html)\
+Title: Abstract Drawing\
+Screenshot: ![](/images)
+- [x]  [Prototyping: Instructions 3](/topics/prototype/instructions/instructions-prototype3/index.html)\
+Title: Weird Drawing\
+Screenshot: ![](/images)
 
 __VARIABLES__
 - [ ]  [Prototyping: Variables](/topics/prototype/varibales/variables-prototype/index.html)
