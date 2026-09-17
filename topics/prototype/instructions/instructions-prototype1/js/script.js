@@ -8,16 +8,42 @@
 "use strict";
 
 /**
- * Creates canva
+ * CREATING THE CANVA
 */
 function setup() {
-
+    createCanva(600, 600);
 }
 
 
 /**
- * Draws the landscape
+ * DRAWING THE CAT
 */
 function draw() {
+
+
+}
+
+/**
+ * SECTION FOR DRAW
+ */
+
+// Draws the cat's head
+function drawCatHead() {
+
+}
+
+// Draw the cat's ears
+function drawCatEars() {
+
+}
+
+// Draw the cat's eyes
+function drawCatEyes() {
+
+}
+
+
+// Draw the cat's mouth
+function drawCatMouth() {
 
 }

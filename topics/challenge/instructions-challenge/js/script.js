@@ -102,7 +102,7 @@ function drawPerson() {
 /**
  * Draws a person's body
  */
-function drawBody() {
+function drawPersonBody() {
     // A person
     push();
     fill('beige');
@@ -124,7 +124,7 @@ function drawBody() {
 /**
  * Draws the person's eyes
  */
-function drawEyes() {
+function drawPersonEyes() {
     // The eyes
     push();
     fill('black');
@@ -138,7 +138,7 @@ function drawEyes() {
 /**
  * Draws the person's mouth
  */
-function drawMouth() {
+function drawPersonMouth() {
     // The eyes
     push();
     fill('black');
@@ -150,7 +150,7 @@ function drawMouth() {
 /**
  * Draws the green grass garden
  */
-function drawGround() {
+function drawPersonGround() {
     // A ground
     push();
     fill('green');

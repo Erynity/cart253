@@ -20,12 +20,31 @@ This website is a collection of my personal prototypubg work for the **CART 253*
 
 
 ## My Prototypes
+__WEBSITE__
 - [x]  [Prototyping: Website](https://erynity.github.io/cart253/README.md)
-- [ ]  [Prototyping: Instructions](/topics/prototype/instructions/instructions-prototype/index.html)
+
+__INSTRUCTIONS__
+- [x]  [Prototyping: Instructions 1](/topics/prototype/instructions/instructions-prototype1/index.html)
+- [x]  [Prototyping: Instructions 2](/topics/prototype/instructions/instructions-prototype2/index.html)
+- [x]  [Prototyping: Instructions 3](/topics/prototype/instructions/instructions-prototype3/index.html)
+
+__VARIABLES__
 - [ ]  [Prototyping: Variables](/topics/prototype/varibales/variables-prototype/index.html)
+
+__CONDITIONALS__
 - [ ]  [Prototyping: Conditionals](/topics/prototype/conditionals/conditionals-prototype/index.html)
+
+__EVENTS__
 - [ ]  [Prototyping: Events](/topics/prototype/events/events-prototype/index.html)
+
+__FUNCTIONS__
 - [ ]  [Prototyping: Functions](/topics/prototype/functions/functions-prototype/index.html)
+
+__ARRAYS__
 - [ ]  [Prototyping: Arrays](/topics/prototype/arrays/arrays-prototype/index.html)
+
+__LOOPS__
 - [ ]  [Prototyping: Loops](/topics/prototype/loops/loops-prototype/index.html)
+
+__DATA__
 - [ ]  [Prototyping: Data](/topics/prototype/data/data-prototype/index.html)
