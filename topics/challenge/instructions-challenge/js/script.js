@@ -95,9 +95,9 @@ function drawMountain() {
  */
 function drawPerson() {
     // A person
-    drawBody();
-    drawEyes();
-    drawMouth();
+    drawPersonBody();
+    drawPersonEyes();
+    drawPersonMouth();
 }
 /**
  * Draws a person's body
@@ -150,7 +150,7 @@ function drawPersonMouth() {
 /**
  * Draws the green grass garden
  */
-function drawPersonGround() {
+function drawGround() {
     // A ground
     push();
     fill('green');
