@@ -2,7 +2,8 @@
  * Instructions Prototype 1
  * Marie Eryne Yow Chok Nee (40352963)
  * 
- * Prototype 1 - Representational Prototype
+ * Prototype 1 - Representational Prototype]
+ * Just a cute kitty cat :)
  */
 
 "use strict";

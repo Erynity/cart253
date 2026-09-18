@@ -3,6 +3,7 @@
  * Marie Eryne Yow Chok Nee (40352963)
  * 
  * Prototype 2 - Abstract Prototype
+ * An abstract drawing using circles
  */
 
 "use strict";

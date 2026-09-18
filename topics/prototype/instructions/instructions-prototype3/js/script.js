@@ -3,6 +3,7 @@
  * Marie Eryne Yow Chok Nee (40352963)
  * 
  * Prototype 3 - Really Weird Prototype
+ * A broken TV effect with the black border conveying the border of the TV.
  */
 
 "use strict";
