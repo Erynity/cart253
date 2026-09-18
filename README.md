@@ -26,14 +26,14 @@ __WEBSITE__
 __INSTRUCTIONS__
 - [x]  [Prototyping: Instructions 1](/topics/prototype/instructions/instructions-prototype1/index.html)\
 Title: Cat Drawing\
-Screenshot: ![](/images/cat.png)
+Screenshot: ![cat](/images/cat.png)
 
 - [x]  [Prototyping: Instructions 2](/topics/prototype/instructions/instructions-prototype2/index.html)\
 Title: Abstract Drawing\
-Screenshot: ![](/images/abstract.png)
+Screenshot: ![abstract](/images/abstract.png)
 - [x]  [Prototyping: Instructions 3](/topics/prototype/instructions/instructions-prototype3/index.html)\
 Title: Weird Broken TV Drawing\
-Screenshot: ![](/images/broken-tv.png)
+Screenshot: ![broken tv](/images/broken-tv.png)
 
 __VARIABLES__
 - [ ]  [Prototyping: Variables](/topics/prototype/varibales/variables-prototype/index.html)
