@@ -1,7 +1,7 @@
 # CART 253
 ![Hello gif](/images/hello.gif) 
 
-This website is a collection of my personal prototypubg work for the **CART 253** course.
+This website is a collection of my personal work for the **CART 253** course.
 
 ## Useful Links
 - [My GitHub Pages](https://erynity.github.io/cart253/)
