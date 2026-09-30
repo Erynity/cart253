@@ -41,19 +41,19 @@ Github Link: https://github.com/Erynity/cart253/tree/main/topics/prototype/instr
 
 __VARIABLES__
 - [x]  [Prototyping: Variables 1](topics/prototype/variables/variables-prototype1/index.html)
-Title: Cat Drawing\
-Screenshot: ![](/images/)
-Github Link: 
+Title: Crossed Drawing\
+Screenshot: ![](/images/crossed.png)
+Github Link: https://github.com/Erynity/cart253/blob/main/topics/prototype/variables/variables-prototype1/index.html\
 
 - [x]  [Prototyping: Variables 2](/topics/prototype/variables/variables-prototype2/index.html)\
 Title: Abstract Drawing\
 Screenshot: ![](/images/)
-Github Link: 
+Github Link: https://github.com/Erynity/cart253/blob/main/topics/prototype/variables/variables-prototype2/index.html\
 
 - [x]  [Prototyping: Variables 3](/topics/prototype/variables/variables-prototype3/index.html)\
 Title: Weird Broken TV Drawing\
 Screenshot: ![](/images/)
-Github Link: 
+Github Link: https://github.com/Erynity/cart253/blob/main/topics/prototype/variables/variables-prototype3/index.html\
 
 __CONDITIONALS__
 - [ ]  [Prototyping: Conditionals](/topics/prototype/conditionals/conditionals-prototype/index.html)
