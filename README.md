@@ -52,7 +52,7 @@ Github Link: https://github.com/Erynity/cart253/blob/main/topics/prototype/varia
 
 - [x]  [Prototyping: Variables 3](/topics/prototype/variables/variables-prototype3/index.html)\
 Title: Weird Broken TV Drawing\
-Screenshot: ![](/images/)
+Screenshot: ![](/images/colorChanging.png)
 Github Link: https://github.com/Erynity/cart253/blob/main/topics/prototype/variables/variables-prototype3/index.html\
 
 __CONDITIONALS__
