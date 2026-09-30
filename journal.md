@@ -18,9 +18,13 @@ Today I learned how to make shapes like ellipse, rectangles and triangles. I lea
 
 I am excited to see what else we can do in the future as far as movement in concern. 
 
-## September 23rd, 2026 | Variables
+## September 30rd, 2026 | Variables
+Today I leaned how to make objects move and draw on the canvas. I made a person happy to angry and it's really fun. I wonder what else I can make with this knowledge now for my final project. I am thinking that I could use the prototypes I have made for my final projects as well.
+
+I think it's quite long to make things moves because there's a lot to think of prior to doing it but maybe it's because I lack experience right now and I will become much faster later hopefully.
 
 
+![new website](/images/crossed.png)
 
 
 
