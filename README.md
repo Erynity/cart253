@@ -47,7 +47,7 @@ Github Link: https://github.com/Erynity/cart253/blob/main/topics/prototype/varia
 
 - [x]  [Prototyping: Variables 2](/topics/prototype/variables/variables-prototype2/index.html)\
 Title: Abstract Drawing\
-Screenshot: ![](/images/)
+Screenshot: ![](/images/constructing.png)
 Github Link: https://github.com/Erynity/cart253/blob/main/topics/prototype/variables/variables-prototype2/index.html\
 
 - [x]  [Prototyping: Variables 3](/topics/prototype/variables/variables-prototype3/index.html)\
