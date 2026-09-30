@@ -12,10 +12,11 @@
 "use strict";
 
 /**
- * OH LOOK I DIDN'T DESCRIBE SETUP!!
+ * Makes a canvas
 */
 function setup() {
-
+    createCanvas(600, 600);
+    background('pink');
 }
 
 

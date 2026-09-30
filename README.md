@@ -38,8 +38,22 @@ Github Link: https://github.com/Erynity/cart253/tree/main/topics/prototype/instr
 Title: Weird Broken TV Drawing\
 Screenshot: ![broken tv](/images/broken-tv.png)
 Github Link: https://github.com/Erynity/cart253/tree/main/topics/prototype/instructions/instructions-prototype3\
+
 __VARIABLES__
-- [ ]  [Prototyping: Variables](/topics/prototype/varibales/variables-prototype/index.html)
+- [x]  [Prototyping: Variables 1](topics/prototype/variables/variables-prototype1/index.html)
+Title: Cat Drawing\
+Screenshot: ![](/images/)
+Github Link: 
+
+- [x]  [Prototyping: Variables 2](/topics/prototype/variables/variables-prototype2/index.html)\
+Title: Abstract Drawing\
+Screenshot: ![](/images/)
+Github Link: 
+
+- [x]  [Prototyping: Variables 3](/topics/prototype/variables/variables-prototype3/index.html)\
+Title: Weird Broken TV Drawing\
+Screenshot: ![](/images/)
+Github Link: 
 
 __CONDITIONALS__
 - [ ]  [Prototyping: Conditionals](/topics/prototype/conditionals/conditionals-prototype/index.html)
