@@ -1,9 +1,12 @@
 /**
- * Title of Project
- * Author Name
+ * Variables Prototype 1
+ * Marie Eryne Yow Chok Nee (40352963)
  * 
- * HOW EMBARRASSING! I HAVE NO DESCRIPTION OF MY PROJECT!
- * PLEASE REMOVE A GRADE FROM MY WORK IF IT'S GRADED!
+ * Prototype 1a
+ * 
+ * Uses:
+ * P5.js
+ * https://p5js.org/
  */
 
 "use strict";

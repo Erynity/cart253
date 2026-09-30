@@ -4,6 +4,10 @@
  * 
  * Prototype 2 - Abstract Prototype
  * An abstract drawing using circles
+ * 
+ * Uses:
+ * P5.js
+ * https://p5js.org/
  */
 
 "use strict";

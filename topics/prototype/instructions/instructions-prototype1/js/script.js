@@ -4,6 +4,10 @@
  * 
  * Prototype 1 - Representational Prototype]
  * Just a cute kitty cat :)
+ * 
+ * Uses:
+ * P5.js
+ * https://p5js.org/
  */
 
 "use strict";

@@ -27,14 +27,17 @@ __INSTRUCTIONS__
 - [x]  [Prototyping: Instructions 1](/topics/prototype/instructions/instructions-prototype1/index.html)\
 Title: Cat Drawing\
 Screenshot: ![cat](/images/cat.png)
+Github Link: https://github.com/Erynity/cart253/tree/main/topics/prototype/instructions/instructions-prototype1\
 
 - [x]  [Prototyping: Instructions 2](/topics/prototype/instructions/instructions-prototype2/index.html)\
 Title: Abstract Drawing\
 Screenshot: ![abstract](/images/abstract.png)
+Github Link: https://github.com/Erynity/cart253/tree/main/topics/prototype/instructions/instructions-prototype2\
+
 - [x]  [Prototyping: Instructions 3](/topics/prototype/instructions/instructions-prototype3/index.html)\
 Title: Weird Broken TV Drawing\
 Screenshot: ![broken tv](/images/broken-tv.png)
-
+Github Link: https://github.com/Erynity/cart253/tree/main/topics/prototype/instructions/instructions-prototype3\
 __VARIABLES__
 - [ ]  [Prototyping: Variables](/topics/prototype/varibales/variables-prototype/index.html)
 

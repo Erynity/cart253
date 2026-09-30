@@ -4,6 +4,10 @@
  * 
  * Prototype 3 - Really Weird Prototype
  * A broken TV effect with the black border conveying the border of the TV.
+ * 
+ * Uses:
+ * P5.js
+ * https://p5js.org/
  */
 
 "use strict";
