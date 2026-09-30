@@ -1,7 +1,7 @@
 # CART 253
 ![Hello gif](/images/hello.gif) 
 
-This website is a collection of my personal prototypubg work for the **CART 253** course.
+This website is a collection of my personal work for the **CART 253** course.
 
 ## Useful Links
 - [My GitHub Pages](https://erynity.github.io/cart253/)
@@ -10,7 +10,7 @@ This website is a collection of my personal prototypubg work for the **CART 253*
 ## My Challenges
 - [x] [Hello, World! Challenge](https://github.com/Erynity/cart253)
 - [x] [Instruction Challenge](/topics/challenge/instructions-challenge/index.html)
-- [ ] [Variables Challenge](/topics/challenge/variables-challenge/index.html)
+- [x] [Variables Challenge](/topics/challenge/variables-challenge/index.html)
 - [ ] [Conditionals Challenge](/topics/challenge/conditionals-challenge/index.html)
 - [ ] [Events Challenge](/topics/challenge/events-challenge/index.html)
 - [ ] [Functions Challenge](/topics/challenge/functions-challenge/index.html)
