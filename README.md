@@ -46,12 +46,12 @@ Screenshot: ![](/images/crossed.png)
 Github Link: https://github.com/Erynity/cart253/blob/main/topics/prototype/variables/variables-prototype1/index.html\
 
 - [x]  [Prototyping: Variables 2](/topics/prototype/variables/variables-prototype2/index.html)\
-Title: Abstract Drawing\
+Title: Constructing platform Game Drawing\
 Screenshot: ![](/images/constructing.png)
 Github Link: https://github.com/Erynity/cart253/blob/main/topics/prototype/variables/variables-prototype2/index.html\
 
 - [x]  [Prototyping: Variables 3](/topics/prototype/variables/variables-prototype3/index.html)\
-Title: Weird Broken TV Drawing\
+Title: Color Changing Square Drawing\
 Screenshot: ![](/images/colorChanging.png)
 Github Link: https://github.com/Erynity/cart253/blob/main/topics/prototype/variables/variables-prototype3/index.html\
 
