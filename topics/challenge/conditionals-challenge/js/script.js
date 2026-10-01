@@ -35,10 +35,24 @@ function draw() {
 
     // Move user circle
     moveUser();
+    movePuck();
 
     // Draw the user and puck
     drawUser();
     drawPuck();
+}
+
+/**
+ * Moves the puck when the user circle overlaps it
+ */
+function movePuck() {
+    const distance = dist(user.x, user.y, puck.x, puck.y);
+    const circlesAreTouching = (distance < puck.size / 2 + user.size / 2);
+
+    if (circlesAreTouching) {
+        puck.x = puck.x + movedX;
+        puck.y = puck.y + movedY;
+    }
 }
 
 /**
