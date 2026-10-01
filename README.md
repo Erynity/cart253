@@ -11,7 +11,7 @@ This website is a collection of my personal work for the **CART 253** course.
 - [x] [Hello, World! Challenge](https://github.com/Erynity/cart253)
 - [x] [Instruction Challenge](/topics/challenge/instructions-challenge/index.html)
 - [x] [Variables Challenge](/topics/challenge/variables-challenge/index.html)
-- [ ] [Conditionals Challenge](/topics/challenge/conditionals-challenge/index.html)
+- [x] [Conditionals Challenge](/topics/challenge/conditionals-challenge/index.html)
 - [ ] [Events Challenge](/topics/challenge/events-challenge/index.html)
 - [ ] [Functions Challenge](/topics/challenge/functions-challenge/index.html)
 - [ ] [Arrays Challenge](/topics/challenge/arrays-challenge/index.html)
