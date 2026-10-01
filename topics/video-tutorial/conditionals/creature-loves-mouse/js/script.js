@@ -56,7 +56,7 @@ function checkInput() {
     } else {
         creature.fill = creature.fills.bored;
     }
-    
+
 }
 
 /**
