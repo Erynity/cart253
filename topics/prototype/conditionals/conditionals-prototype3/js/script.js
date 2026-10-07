@@ -33,6 +33,26 @@ function draw() {
 
     // Draw the ball
     drawBall();
+    
+    // Controls to move the ball
+    moveBall();
+}
+/**
+ * moves the ball in the direction of the arrow key being held
+ */
+function moveBall() {
+    if (keyIsDown(LEFT_ARROW)) {
+        ball.x -= 5;
+    }
+    if (keyIsDown(RIGHT_ARROW)) {
+        ball.x += 5;
+    }
+    if (keyIsDown(UP_ARROW)) {
+        ball.y -= 5;
+    }
+    if (keyIsDown(DOWN_ARROW)) {
+        ball.y += 5;
+    }
 }
 
 /**
