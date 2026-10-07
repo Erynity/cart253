@@ -2,7 +2,7 @@
  * Night Light
  * Marie Eryne Yow Chok Nee
  *
- * The dark room with a switch
+ * The dark room with a light button
  *
  * Uses:
  * P5.js
@@ -12,7 +12,11 @@
 "use strict";
 
 const room = {
-    fill: "#222222" // dark while the lights are off
+    fill: "#222222", // dark while the lights are off
+    fills: {
+        on: "#c8c8c8", // light while the lights are on
+        off: "#222222" // dark while the lights are off
+    } 
 };
 
 const user = {
@@ -22,11 +26,10 @@ const user = {
     fill: "#f2c9a0" // the user's cursor
 };
 
-const lightSwitch = {
+const lightButton = {
     x: 340,
     y: 200,
-    width: 30,
-    height: 50,
+    size: 40,
     fill: "#ff3333",
     fills: {
         on: "#ffee55",
@@ -50,8 +53,11 @@ function draw() {
     // Move user's cursor
     moveUser();
 
-    // Draw the light switch and user's cursor
-    drawSwitch();
+    // Press the light button if the user is touching it
+    checkButton();
+
+    // Draw the light button and user's cursor
+    drawButton();
     drawUser();
 }
 
@@ -61,6 +67,24 @@ function draw() {
 function moveUser() {
     user.x = mouseX;
     user.y = mouseY;
+}
+
+/**
+ * turns the light button on when the user's cursor is touching it
+ */
+function checkButton() {
+    const distance = dist(user.x, user.y, lightButton.x, lightButton.y);
+    const userIsOnButton =
+        (distance < user.size / 2 + lightButton.size / 2);
+
+    if (userIsOnButton) {
+        lightButton.fill = lightButton.fills.on;
+        room.fill = room.fills.on;
+    }
+    else {
+        lightButton.fill = lightButton.fills.off;
+        room.fill = room.fills.off;
+    }
 }
 
 /**
@@ -75,12 +99,12 @@ function drawUser() {
 }
 
 /**
- * draws the light switch
+ * draws the light button
  */
-function drawSwitch() {
+function drawButton() {
     push();
     noStroke();
-    fill(lightSwitch.fill);
-    rect(lightSwitch.x, lightSwitch.y, lightSwitch.width, lightSwitch.height);
+    fill(lightButton.fill);
+    ellipse(lightButton.x, lightButton.y, lightButton.size);
     pop();
 }
