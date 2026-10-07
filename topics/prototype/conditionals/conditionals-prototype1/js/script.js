@@ -22,6 +22,18 @@ const user = {
     fill: "#f2c9a0" // the user's cursor
 };
 
+const lightSwitch = {
+    x: 340,
+    y: 200,
+    width: 30,
+    height: 50,
+    fill: "#ff3333",
+    fills: {
+        on: "#ffee55",
+        off: "#ff3333"
+    }
+};
+
 /**
  * Create the canvas
  */
@@ -38,7 +50,8 @@ function draw() {
     // Move user's cursor
     moveUser();
 
-    // Draw user's cursor
+    // Draw the light switch and user's cursor
+    drawSwitch();
     drawUser();
 }
 
@@ -58,5 +71,16 @@ function drawUser() {
     noStroke();
     fill(user.fill);
     ellipse(user.x, user.y, user.size);
+    pop();
+}
+
+/**
+ * draws the light switch
+ */
+function drawSwitch() {
+    push();
+    noStroke();
+    fill(lightSwitch.fill);
+    rect(lightSwitch.x, lightSwitch.y, lightSwitch.width, lightSwitch.height);
     pop();
 }
