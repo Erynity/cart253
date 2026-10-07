@@ -1,15 +1,18 @@
 /**
- * Title of Project
- * Author Name
+ * Conditional Prototype 2
+ * Marie Eryne Yow Chok Nee
  * 
- * HOW EMBARRASSING! I HAVE NO DESCRIPTION OF MY PROJECT!
- * PLEASE REMOVE A GRADE FROM MY WORK IF IT'S GRADED!
+ * 
+ * 
+ * Uses:
+ * P5.js
+ * https://p5js.org/
  */
 
 "use strict";
 
 /**
- * OH LOOK I DIDN'T DESCRIBE SETUP!!
+ * Create a canvas
 */
 function setup() {
 
