@@ -33,7 +33,7 @@ function draw() {
 
     // Draw the ball
     drawBall();
-    
+
     // Controls to move the ball
     moveBall();
 }

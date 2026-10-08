@@ -11,20 +11,28 @@ Other than that, I'm really excited for this course and I cannot wait to have a 
 
 Here is a screenshot of how my newly created website looks like so far :
 
-![new website](/images/new%20website.png)
+![website](/images/journal-website.png)
 
 ## September 16th, 2026 | Instructions
 Today I learned how to make shapes like ellipse, rectangles and triangles. I learned to use the p5 website to find new commands and to use them using functions. I even made a cute cat :). I'm very happy from what I have learned to far and cannot wait to see the final project I will be constructing.
 
 I am excited to see what else we can do in the future as far as movement in concern. 
 
+![emotion](/images/journal-excited.png)
+
 ## September 30rd, 2026 | Variables
 Today I leaned how to make objects move and draw on the canvas. I made a person happy to angry and it's really fun. I wonder what else I can make with this knowledge now for my final project. I am thinking that I could use the prototypes I have made for my final projects as well.
 
 I think it's quite long to make things moves because there's a lot to think of prior to doing it but maybe it's because I lack experience right now and I will become much faster later hopefully.
 
+![emotion](/images/journal-surprisedcat.png)
 
-![new website](/images/crossed.png)
+## October 7th, 2026 | Conditionals
+Today I leaned how to take in user input to make them move an object!!! It's a very exciting moment and feels like everything is coming along. It's becoming wayyyy harder/longer to code stuff now but they look like they actually are useful ? if that makes sense. 
+
+![emotion](/images/journal-happycat.png)
+
+
 
 
 
