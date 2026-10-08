@@ -26,57 +26,57 @@ __WEBSITE__
 __INSTRUCTIONS__
 - [x]  [Prototyping: Instructions 1](/topics/prototype/instructions/instructions-prototype1/index.html)\
 Title: Cat Drawing\
-Github Link: https://github.com/Erynity/cart253/tree/main/topics/prototype/instructions/instructions-prototype1\js/script.js \
+Github Link: <https://github.com/Erynity/cart253/blob/main/topics/prototype/instructions/instructions-prototype1/js/script.js>\
 Screenshot:\
 ![cat](/images/cat.png)
 
 - [x]  [Prototyping: Instructions 2](/topics/prototype/instructions/instructions-prototype2/index.html)\
 Title: Abstract Drawing\
-Github Link: https://github.com/Erynity/cart253/tree/main/topics/prototype/instructions/instructions-prototype2\js/script.js \
+Github Link: <https://github.com/Erynity/cart253/blob/main/topics/prototype/instructions/instructions-prototype2/js/script.js>\
 Screenshot:\
  ![abstract](/images/abstract.png)
 
 - [x]  [Prototyping: Instructions 3](/topics/prototype/instructions/instructions-prototype3/index.html)\
 Title: Weird Broken TV Drawing\
-Github Link: https://github.com/Erynity/cart253/tree/main/topics/prototype/instructions/instructions-prototype3\js/script.js \
+Github Link: <https://github.com/Erynity/cart253/blob/main/topics/prototype/instructions/instructions-prototype3/js/script.js>\
 Screenshot:\
  ![broken tv](/images/broken-tv.png)
 
 __VARIABLES__
 - [x]  [Prototyping: Variables 1](topics/prototype/variables/variables-prototype1/index.html)\
 Title: Crossed Drawing\
-Github Link: https://github.com/Erynity/cart253/blob/main/topics/prototype/variables/variables-prototype1/js/script.js \
+Github Link: <https://github.com/Erynity/cart253/blob/main/topics/prototype/variables/variables-prototype1/js/script.js>\
 Screenshot:\
  ![](/images/crossed.png)
 
 - [x]  [Prototyping: Variables 2](/topics/prototype/variables/variables-prototype2/index.html)\
 Title: Constructing platform Game Drawing\
-Github Link: https://github.com/Erynity/cart253/blob/main/topics/prototype/variables/variables-prototype2/js/script.js \
+Github Link: <https://github.com/Erynity/cart253/blob/main/topics/prototype/variables/variables-prototype2/js/script.js>\
 Screenshot:\
  ![](/images/constructing.png)
 
 - [x]  [Prototyping: Variables 3](/topics/prototype/variables/variables-prototype3/index.html)\
 Title: Color Changing Square Drawing\
-Github Link: https://github.com/Erynity/cart253/blob/main/topics/prototype/variables/variables-prototype3/js/script.js \
+Github Link: <https://github.com/Erynity/cart253/blob/main/topics/prototype/variables/variables-prototype3/js/script.js>\
 Screenshot:\
  ![](/images/colorChanging.png)
 
 __CONDITIONALS__
 - [x]  [Prototyping: Conditionals](/topics/prototype/conditionals/conditionals-prototype1/index.html)
 Title: Color Changing Square Drawing\
-Github Link: https://github.com/Erynity/cart253/blob/main/topics/prototype/conditionals/conditionals-prototype1/js/script.js \
+Github Link: <https://github.com/Erynity/cart253/blob/main/topics/prototype/conditionals/conditionals-prototype1/js/script.js>\
 Screenshot:\
  ![](/images/lightswitch.png)
 
 - [x]  [Prototyping: Conditionals](/topics/prototype/conditionals/conditionals-prototype2/index.html)
 Title: Color Changing Square Drawing\
-Github Link: https://github.com/Erynity/cart253/blob/main/topics/prototype/conditionals/conditionals-prototype2/js/script.js \
+Github Link: <https://github.com/Erynity/cart253/blob/main/topics/prototype/conditionals/conditionals-prototype2/js/script.js>\
 Screenshot:\
  ![](/images/baloon.png)
 
 - [x]  [Prototyping: Conditionals](/topics/prototype/conditionals/conditionals-prototype3/index.html)
 Title: Color Changing Square Drawing\
-Github Link: https://github.com/Erynity/cart253/blob/main/topics/prototype/conditionals/conditionals-prototype3/js/script.js \
+Github Link: <https://github.com/Erynity/cart253/blob/main/topics/prototype/conditionals/conditionals-prototype3/js/script.js>\
 Screenshot:\
  ![](/images/movingCircle.png)
 
