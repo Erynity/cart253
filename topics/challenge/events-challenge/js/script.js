@@ -18,10 +18,12 @@ let score = 0;
 let gameOver = false;
 
 /**
- * Create the canvas
+ * Create the canvas and listen for internet connection changes
  */
 function setup() {
     createCanvas(400, 400);
+
+
 }
 
 /**
@@ -75,14 +77,6 @@ function lose() {
 /**
  * makes user lose if they do these with the keyboard
  */
-function keyIsDown() {
-    lose();
-}
-
-function keyIsPressed() {
-    lose();
-}
-
 function keyPressed() {
     lose();
 }
@@ -103,10 +97,6 @@ function mouseClicked() {
 }
 
 function mouseDragged() {
-    lose();
-}
-
-function mouseIsPressed() {
     lose();
 }
 
