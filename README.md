@@ -62,19 +62,19 @@ Screenshot:\
  ![](/images/colorChanging.png)
 
 __CONDITIONALS__
-- [x]  [Prototyping: Conditionals](/topics/prototype/conditionals/conditionals-prototype1/index.html)
+- [x]  [Prototyping: Conditionals](/topics/prototype/conditionals/conditionals-prototype1/index.html)\
 Title: Color Changing Square Drawing\
 Github Link: <https://github.com/Erynity/cart253/blob/main/topics/prototype/conditionals/conditionals-prototype1/js/script.js>\
 Screenshot:\
  ![](/images/lightswitch.png)
 
-- [x]  [Prototyping: Conditionals](/topics/prototype/conditionals/conditionals-prototype2/index.html)
+- [x]  [Prototyping: Conditionals](/topics/prototype/conditionals/conditionals-prototype2/index.html)\
 Title: Color Changing Square Drawing\
 Github Link: <https://github.com/Erynity/cart253/blob/main/topics/prototype/conditionals/conditionals-prototype2/js/script.js>\
 Screenshot:\
  ![](/images/baloon.png)
 
-- [x]  [Prototyping: Conditionals](/topics/prototype/conditionals/conditionals-prototype3/index.html)
+- [x]  [Prototyping: Conditionals](/topics/prototype/conditionals/conditionals-prototype3/index.html)\
 Title: Color Changing Square Drawing\
 Github Link: <https://github.com/Erynity/cart253/blob/main/topics/prototype/conditionals/conditionals-prototype3/js/script.js>\
 Screenshot:\
