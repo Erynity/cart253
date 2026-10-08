@@ -1,8 +1,12 @@
 /**
  * The Only Move Is Not To Play
- * Pippin Barr
+ * Marie Eryne Yow Chok Nee
  *
  * A game where your score increases so long as you do nothing.
+ * 
+* Uses:
+ * P5.js
+ * https://p5js.org/
  */
 
 "use strict";
@@ -59,4 +63,65 @@ function displayScore() {
     textAlign(CENTER, CENTER);
     text(floor(score), width / 2, height / 2);
     pop();
+}
+
+/**
+ * Ends the game
+ */
+function lose() {
+    gameOver = true;
+}
+
+/**
+ * makes user lose if they do these with the keyboard
+ */
+function keyIsDown() {
+    lose();
+}
+
+function keyIsPressed() {
+    lose();
+}
+
+function keyPressed() {
+    lose();
+}
+
+function keyReleased() {
+    lose();
+}
+
+function keyTyped() {
+    lose();
+}
+
+/**
+ * makes user lose if they do these with the mouse
+ */
+function mouseClicked() {
+    lose();
+}
+
+function mouseDragged() {
+    lose();
+}
+
+function mouseIsPressed() {
+    lose();
+}
+
+function mouseMoved() {
+    lose();
+}
+
+function mousePressed() {
+    lose();
+}
+
+function mouseReleased() {
+    lose();
+}
+
+function mouseWheel() {
+    lose();
 }
