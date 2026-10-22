@@ -82,7 +82,23 @@ Screenshot:\
 
 
 __EVENTS__
-- [ ]  [Prototyping: Events](/topics/prototype/events/events-prototype/index.html)\
+- [x]  [Prototyping: Events](/topics/prototype/events/events-prototype1/index.html)\
+Title: Don't Wake The Baby\
+Github Link: <https://github.com/Erynity/cart253/blob/main/topics/prototype/events/events-prototype1/js/script.js>\
+Screenshot:\
+ ![](/images/cryingBaby.png)
+
+- [x]  [Prototyping: Events](/topics/prototype/events/events-prototype2/index.html)\
+Title: Needy Button\
+Github Link: <https://github.com/Erynity/cart253/blob/main/topics/prototype/events/events-prototype2/js/script.js>\
+Screenshot:\
+ ![](/images/loveMe.png)
+
+- [x]  [Prototyping: Events](/topics/prototype/events/events-prototype3/index.html)\
+Title: Growing Balloon\
+Github Link: <https://github.com/Erynity/cart253/blob/main/topics/prototype/events/events-prototype3/js/script.js>\
+Screenshot:\
+ ![](/images/balloon.png)
 
 __FUNCTIONS__
 - [ ]  [Prototyping: Functions](/topics/prototype/functions/functions-prototype/index.html)\
