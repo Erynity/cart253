@@ -32,7 +32,7 @@ Today I leaned how to take in user input to make them move an object!!! It's a v
 
 ![happy cat](/images/journal-happycat.png)
 
+## October 21st, 2026 | Events
+Today I learned how to use events to make my programs react to clicks, mouse movements and key presses. I made a baby that wakes up when you click, a needy button and a balloon that grows when you move your mouse. It feels like the program is actually alive now :)
 
-
-
-
+![crying baby](/images/cryingBaby.png)
