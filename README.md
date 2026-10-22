@@ -13,7 +13,7 @@ This website is a collection of my personal work for the **CART 253** course.
 - [x] [Variables Challenge](/topics/challenge/variables-challenge/index.html)
 - [x] [Conditionals Challenge](/topics/challenge/conditionals-challenge/index.html)
 - [x] [Events Challenge](/topics/challenge/events-challenge/index.html)
-- [ ] [Functions Challenge](/topics/challenge/functions-challenge/index.html)
+- [x] [Functions Challenge](/topics/challenge/functions-challenge/index.html)
 - [ ] [Arrays Challenge](/topics/challenge/arrays-challenge/index.html)
 - [ ] [Loops Challenge](/topics/challenge/loops-challenge/index.html)
 - [ ] [Data Challenge](/topics/challenge/data-challenge/index.html)
@@ -82,16 +82,16 @@ Screenshot:\
 
 
 __EVENTS__
-- [ ]  [Prototyping: Events](/topics/prototype/events/events-prototype/index.html)
+- [ ]  [Prototyping: Events](/topics/prototype/events/events-prototype/index.html)\
 
 __FUNCTIONS__
-- [ ]  [Prototyping: Functions](/topics/prototype/functions/functions-prototype/index.html)
+- [ ]  [Prototyping: Functions](/topics/prototype/functions/functions-prototype/index.html)\
 
 __ARRAYS__
-- [ ]  [Prototyping: Arrays](/topics/prototype/arrays/arrays-prototype/index.html)
+- [ ]  [Prototyping: Arrays](/topics/prototype/arrays/arrays-prototype/index.html)\
 
 __LOOPS__
-- [ ]  [Prototyping: Loops](/topics/prototype/loops/loops-prototype/index.html)
+- [ ]  [Prototyping: Loops](/topics/prototype/loops/loops-prototype/index.html)\
 
 __DATA__
-- [ ]  [Prototyping: Data](/topics/prototype/data/data-prototype/index.html)
+- [ ]  [Prototyping: Data](/topics/prototype/data/data-prototype/index.html)\
