@@ -14,7 +14,7 @@ This website is a collection of my personal work for the **CART 253** course.
 - [x] [Conditionals Challenge](/topics/challenge/conditionals-challenge/index.html)
 - [x] [Events Challenge](/topics/challenge/events-challenge/index.html)
 - [x] [Functions Challenge](/topics/challenge/functions-challenge/index.html)
-- [ ] [Arrays Challenge](/topics/challenge/arrays-challenge/index.html)
+- [x] [Arrays Challenge](/topics/challenge/arrays-challenge/index.html)
 - [ ] [Loops Challenge](/topics/challenge/loops-challenge/index.html)
 - [ ] [Data Challenge](/topics/challenge/data-challenge/index.html)
 
