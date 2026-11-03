@@ -16,11 +16,12 @@ function setup() {
 
 
 /**
- * Drawing balls
+ * Drawing planets
 */
 function draw() {
     background('black');
 
+    // Draw the balls to represent the planets
     drawBall(250, 300, 75);
     drawBall(640, 200, 200);
     drawBall(420, 140, 100);
@@ -29,6 +30,7 @@ function draw() {
 function drawBall(x, y, size) {
     let weight = calculateStrokeWeight(x, y);
 
+    // Planet properties
     push();
     strokeWeight(weight);
     stroke("#00a2ff");
@@ -37,6 +39,7 @@ function drawBall(x, y, size) {
     pop();
 }
 
+// Function to make strokes react to mouse movements
 function calculateStrokeWeight(x, y) {
     const minWeight = 1;
     const maxWeight = 20;

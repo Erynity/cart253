@@ -1,11 +1,17 @@
 /**
- * Planets
+ * Horsey
  * Marie Eryne Yow Chok Nee
  * 
- * Reacting planets
+ * Cutting off horseys legs :(
  */
 
 "use strict";
+
+let horsey = {
+    name: "Horsey",
+    color: "#7d561d",
+    legs: 4
+};
 
 /**
  * Draw canvas
@@ -16,32 +22,36 @@ function setup() {
 
 
 /**
- * Drawing balls
+ * Drawing on canvas
 */
 function draw() {
-    background('black');
-
-    drawBall(250, 300, 75);
-    drawBall(640, 200, 200);
-    drawBall(420, 140, 100);
-}
-
-function drawBall(x, y, size) {
-    let weight = calculateStrokeWeight(x, y);
-
+    background('#95acff');
+    
+    // Ground
     push();
-    strokeWeight(weight);
-    stroke("#00a2ff");
-    fill("#36f9b8");
-    ellipse(x, y, size);
+    noStroke();
+    fill('green')
+    rect(0, 300, 800, 200);
     pop();
 }
 
-function calculateStrokeWeight(x, y) {
-    const minWeight = 1;
-    const maxWeight = 20;
-    let d = dist(mouseX, mouseY, x, y);
-    let result = map(d, 0, width, maxWeight, minWeight);
+/**
+ * Drawing of horsey
+ */
+function drawHorsey(animal) {
+ 
+}
 
-    return result;
+/**
+ * Function to activate remove a leg when pressing mouse
+ */
+function mousePressed() {
+    cutOffOneLeg(horsey);
+}
+/**
+ * Function to remove a leg
+ */
+function cutOffOneLeg(animal) {
+    animal.legs -= 1;
+    animal.legs = constrain(animal.legs, 0, 4);
 }
