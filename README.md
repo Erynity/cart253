@@ -101,7 +101,23 @@ Screenshot:\
  ![](/images/balloon.png)
 
 __FUNCTIONS__
-- [ ]  [Prototyping: Functions](/topics/prototype/functions/functions-prototype/index.html)\
+- [x]  [Prototyping: Functions](/topics/prototype/functions/functions-prototype1/index.html)\
+Title: Planets\
+Github Link: <https://github.com/Erynity/cart253/blob/main/topics/prototype/functions/functions-prototype1/js/script.js>\
+Screenshot:\
+ ![](/images/planets.png)
+
+- [ ]  [Prototyping: Functions](/topics/prototype/functions/functions-prototype2/index.html)\
+Title: \
+Github Link: <https://github.com/Erynity/cart253/blob/main/topics/prototype/functions/functions-prototype2/js/script.js>\
+Screenshot:\
+ ![](/images/)
+
+- [ ]  [Prototyping: Functions](/topics/prototype/functions/functions-prototype3/index.html)\
+Title: \
+Github Link: <https://github.com/Erynity/cart253/blob/main/topics/prototype/functions/functions-prototype3/js/script.js>\
+Screenshot:\
+ ![](/images/)
 
 __ARRAYS__
 - [ ]  [Prototyping: Arrays](/topics/prototype/arrays/arrays-prototype/index.html)\
