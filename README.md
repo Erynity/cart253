@@ -107,11 +107,11 @@ Github Link: <https://github.com/Erynity/cart253/blob/main/topics/prototype/func
 Screenshot:\
  ![](/images/planets.png)
 
-- [ ]  [Prototyping: Functions](/topics/prototype/functions/functions-prototype2/index.html)\
-Title: \
+- [x]  [Prototyping: Functions](/topics/prototype/functions/functions-prototype2/index.html)\
+Title: Horsey\
 Github Link: <https://github.com/Erynity/cart253/blob/main/topics/prototype/functions/functions-prototype2/js/script.js>\
 Screenshot:\
- ![](/images/)
+ ![](/images/horsey.png)
 
 - [ ]  [Prototyping: Functions](/topics/prototype/functions/functions-prototype3/index.html)\
 Title: \
