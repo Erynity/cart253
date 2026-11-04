@@ -35,4 +35,13 @@ Today I leaned how to take in user input to make them move an object!!! It's a v
 ## October 21st, 2026 | Events
 Today I learned how to use events to make my programs react to clicks, mouse movements and key presses. I made a baby that wakes up when you click, a needy button and a balloon that grows when you move your mouse. It feels like the program is actually alive now :)
 
-![crying baby](/images/cryingBaby.png)
+![smiling cat](/images/smilingCat.gif)
+
+## November 3rd, 2026 | Functions
+Today I learned how to make my own functions and give them parameters so I can reuse them. I made planets that react to the mouse, a horsey that loses a leg every time you click (sorry horsey :( ) and a snowman that melts when the mouse gets close.
+
+It's becoming more and more complex and honestly it's hard to remember all of it now. I find it really difficult to think of what variables go into the distance function specifically, and now that we are merging everything together (objects, events, conditionals and functions) which confuses me. I hope it get better with practice fingers crossed!
+
+Other than that, I'm really excited to start making a bigger project now that I know all of this! I wish that my work can inspire others :D
+
+![dancing cat](/images/dancingCat.gif)
