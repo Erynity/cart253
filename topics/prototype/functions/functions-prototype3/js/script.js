@@ -1,11 +1,17 @@
 /**
- * Planets
+ * Melting Snowman
  * Marie Eryne Yow Chok Nee
- * 
- * Reacting planets
+ *
+ * A snowman that melts when the mouse gets close :(
  */
 
 "use strict";
+
+let snowman = {
+    name: "Snowman",
+    color: "white",
+    x: 400
+};
 
 /**
  * Draw canvas
@@ -16,32 +22,48 @@ function setup() {
 
 
 /**
- * Drawing balls
+ * Drawing on canvas
 */
 function draw() {
-    background('black');
+    background('#1d2b53');
 
-    drawBall(250, 300, 75);
-    drawBall(640, 200, 200);
-    drawBall(420, 140, 100);
+    // Snow on the ground
+    push();
+    noStroke();
+    fill('#d9e6ff');
+    rect(0, 330, 800, 70);
+    pop();
+
+    drawSnowman(snowman);
 }
 
-function drawBall(x, y, size) {
-    let weight = calculateStrokeWeight(x, y);
+/**
+ * Drawing of snowman
+ */
+function drawSnowman(person) {
 
+    // body
+    ellipse(person.x, 260, 140);
+    ellipse(person.x, 170, 100);
+
+    // head
+    ellipse(person.x, 100, 70);
+    pop();
+
+    // face
     push();
-    strokeWeight(weight);
-    stroke("#00a2ff");
-    fill("#36f9b8");
-    ellipse(x, y, size);
+    noStroke();
+
+    // eyes
+    fill('black');
+    ellipse(person.x - 12, 95, 8);
+    ellipse(person.x + 12, 95, 8);
+
+    // nose
+    fill('orange');
+    rect(person.x, 102, 20, 6);
     pop();
 }
 
-function calculateStrokeWeight(x, y) {
-    const minWeight = 1;
-    const maxWeight = 20;
-    let d = dist(mouseX, mouseY, x, y);
-    let result = map(d, 0, width, maxWeight, minWeight);
+// Function to make strokes react to mouse movements
 
-    return result;
-}
