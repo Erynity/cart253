@@ -113,11 +113,11 @@ Github Link: <https://github.com/Erynity/cart253/blob/main/topics/prototype/func
 Screenshot:\
  ![](/images/horsey.png)
 
-- [ ]  [Prototyping: Functions](/topics/prototype/functions/functions-prototype3/index.html)\
-Title: \
+- [x]  [Prototyping: Functions](/topics/prototype/functions/functions-prototype3/index.html)\
+Title: Melting Snowman\
 Github Link: <https://github.com/Erynity/cart253/blob/main/topics/prototype/functions/functions-prototype3/js/script.js>\
 Screenshot:\
- ![](/images/)
+ ![](/images/snowman.png)
 
 __ARRAYS__
 - [ ]  [Prototyping: Arrays](/topics/prototype/arrays/arrays-prototype/index.html)\
