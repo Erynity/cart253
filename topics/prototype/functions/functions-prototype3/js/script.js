@@ -41,6 +41,13 @@ function draw() {
  * Drawing of snowman
  */
 function drawSnowman(person) {
+    let weight = calculateStrokeWeight(person.x, 200);
+
+    // The blue outline gets thicker when the mouse is close
+    push();
+    strokeWeight(weight);
+    stroke("#00a2ff");
+    fill(person.color);
 
     // body
     ellipse(person.x, 260, 140);
@@ -66,4 +73,11 @@ function drawSnowman(person) {
 }
 
 // Function to make strokes react to mouse movements
+function calculateStrokeWeight(x, y) {
+    const minWeight = 1;
+    const maxWeight = 20;
+    let d = dist(mouseX, mouseY, x, y);
+    let result = map(d, 0, width, maxWeight, minWeight);
 
+    return result;
+}
