@@ -35,7 +35,7 @@ Today I leaned how to take in user input to make them move an object!!! It's a v
 ## October 21st, 2026 | Events
 Today I learned how to use events to make my programs react to clicks, mouse movements and key presses. I made a baby that wakes up when you click, a needy button and a balloon that grows when you move your mouse. It feels like the program is actually alive now :)
 
-![smiling cat](/images/smilingCat.gif)
+![smiling cat](/images/journal-smilingcat.gif)
 
 ## November 3rd, 2026 | Functions
 Today I learned how to make my own functions and give them parameters so I can reuse them. I made planets that react to the mouse, a horsey that loses a leg every time you click (sorry horsey :( ) and a snowman that melts when the mouse gets close.
@@ -44,4 +44,13 @@ It's becoming more and more complex and honestly it's hard to remember all of it
 
 Other than that, I'm really excited to start making a bigger project now that I know all of this! I wish that my work can inspire others :D
 
-![dancing cat](/images/dancingCat.gif)
+![dancing cat](/images/journal-dancingcat.gif)
+
+## November 6th, 2026 | Arrays
+Today I learned how to use arrays to store astuff in it. I made many planets that appear where you click, a horsey that says random things (woof ?) and a flower that changes its size from a list of preset sizes when you click.
+
+It took me a while to understand how to make it work and I changed my prototypes soooo much but I think I get it now.... ?? (hopefully) loll
+
+I like that arrays lets me have some kind of presets
+
+![flower cat](/images/journal-flowercat.png)
