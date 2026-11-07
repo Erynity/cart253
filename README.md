@@ -120,7 +120,23 @@ Screenshot:\
  ![](/images/snowman.png)
 
 __ARRAYS__
-- [ ]  [Prototyping: Arrays](/topics/prototype/arrays/arrays-prototype/index.html)\
+- [x]  [Prototyping: Arrays](/topics/prototype/arrays/arrays-prototype1/index.html)\
+Title: Many Planets\
+Github Link: <https://github.com/Erynity/cart253/blob/main/topics/prototype/arrays/arrays-prototype1/js/script.js>\
+Screenshot:\
+ ![](/images/manyPlanets.png)
+
+- [x]  [Prototyping: Arrays](/topics/prototype/arrays/arrays-prototype2/index.html)\
+Title: Talking Horsey\
+Github Link: <https://github.com/Erynity/cart253/blob/main/topics/prototype/arrays/arrays-prototype2/js/script.js>\
+Screenshot:\
+ ![](/images/talkingHorsey.png)
+
+- [x]  [Prototyping: Arrays](/topics/prototype/arrays/arrays-prototype3/index.html)\
+Title: Flower Garden\
+Github Link: <https://github.com/Erynity/cart253/blob/main/topics/prototype/arrays/arrays-prototype3/js/script.js>\
+Screenshot:\
+ ![](/images/flowerGarden.png)
 
 __LOOPS__
 - [ ]  [Prototyping: Loops](/topics/prototype/loops/loops-prototype/index.html)\
