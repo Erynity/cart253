@@ -1,106 +1,50 @@
 /**
- * Snow Day
+ * Flower Garden
  * Marie Eryne Yow Chok Nee
  *
- * Click to make it snow!
- * Every snowflake that lands makes the snow on the ground pile up higher.
- *
- * Moving, drawing and adding objects in an array is based on the
- * Ball Party arrays challenge from the course.
+ * Click to change the size of the flower!
  */
 
 "use strict";
 
-let snowflakes = []; // Will hold all the snowflakes
-
-// The snow on the ground
-let ground = {
-    y: 370,
-    color: "white"
+// Flower object
+let flower = {
+    x: 400,
+    y: 200,
+    size: 60
 };
 
-/**
- * Draw canvas
-*/
+// All the sizes the flower can be
+let flowerSizes = [40, 60, 100, 150, 250];
+
 function setup() {
     createCanvas(800, 400);
 }
 
-
-/**
- * Moves and draws the snowflakes and the ground
-*/
 function draw() {
-    background('#1d2b53');
+    background('#64845e');
 
-    for (let snowflake of snowflakes) {
-        moveSnowflake(snowflake);
-        checkGround(snowflake);
-        drawSnowflake(snowflake);
-    }
-
-    drawGround(ground);
+    drawFlower();
 }
 
-/**
- * Creates a new snowflake where the mouse is
- */
-function createSnowflake() {
-    const newSnowflake = {
-        x: mouseX,
-        y: mouseY,
-        size: random(5, 15),
-        speed: random(1, 3)
-    };
-    return newSnowflake;
-}
-
-/**
- * Makes the snowflake fall down
- */
-function moveSnowflake(snowflake) {
-    snowflake.y += snowflake.speed;
-}
-
-/**
- * When a snowflake lands, the snow piles up and the snowflake goes back to the top
- */
-function checkGround(snowflake) {
-    if (snowflake.y > ground.y) {
-        ground.y -= 1;
-        ground.y = constrain(ground.y, 0, 370);
-
-        snowflake.y = 0;
-        snowflake.x = random(0, width);
-    }
-}
-
-/**
- * Drawing of one snowflake
- */
-function drawSnowflake(snowflake) {
+function drawFlower() {
+    // petals
     push();
     noStroke();
-    fill('white');
-    ellipse(snowflake.x, snowflake.y, snowflake.size);
+    fill('pink');
+    ellipse(flower.x, flower.y, flower.size, 20);
+    ellipse(flower.x, flower.y, 20, flower.size);
+    pop();
+
+    // Yellow part
+    push();
+    noStroke();
+    fill('yellow');
+    ellipse(flower.x, flower.y, 20);
     pop();
 }
 
-/**
- * Drawing of the snow on the ground
- */
-function drawGround(snow) {
-    push();
-    noStroke();
-    fill(snow.color);
-    rect(0, snow.y, width, height);
-    pop();
-}
-
-/**
- * Adds a new snowflake when the mouse is clicked
- */
 function mousePressed() {
-    const newSnowflake = createSnowflake();
-    snowflakes.push(newSnowflake);
+    // Pick a random size from the array
+    flower.size = random(flowerSizes);
 }
