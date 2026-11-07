@@ -5,7 +5,7 @@
  * Horsey is back and can talk now!
  * Click to make horsey say something random.
  *
- * Extends my Horsey functions prototype with an array of strings (dialog).
+ * Extends my Horsey functions prototype with dialog lines! :D
  */
 
 "use strict";
@@ -13,13 +13,13 @@
 let horsey = {
     name: "Horsey",
     color: "#7d561d",
-    // Everything horsey can say
+    // Horsey's dialog lines
     lines: [
         "Neigh!",
-        "I like carrots",
-        "Please don't cut my legs again :(",
-        "Hay is for horses",
-        "Giddy up!"
+        "I'm scared",
+        "Please don't cut my legs :(",
+        "Yeehaa",
+        "woof ?"
     ]
 };
 
@@ -90,7 +90,7 @@ function drawDialog() {
     push();
     fill('black');
     textSize(24);
-    text(currentLine, 275, 45);
+    text(currentLine, 470, 45);
     pop();
 }
 
