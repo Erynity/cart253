@@ -1,24 +1,36 @@
 /**
- * Title of Project
- * Author Name
+ * Final project
+ * Marie Eryne Yow Chok Nee
+ *
+ * Title:
+ * A Flower Card Gambling Game
  * 
- * HOW EMBARRASSING! I HAVE NO DESCRIPTION OF MY PROJECT!
- * PLEASE REMOVE A GRADE FROM MY WORK IF IT'S GRADED!
+ * Description: 
+ * Click to buy, open a flower pack. 
+ * Inside you can get different seed rarity. 
+ * Can you collect all the flowers?
+ * 
+ * Credits:
+ * - p5.js, created by Lauren McCarthy and the p5.js contributors
+ *   https://p5js.org/
+ * 
+ * - Artwork generated with Claude by Anthropic
+ *   https://claude.ai/
  */
 
 "use strict";
 
 /**
- * OH LOOK I DIDN'T DESCRIBE SETUP!!
-*/
+ * Creates canvas
+ */
 function setup() {
 
 }
 
 
 /**
- * OOPS I DIDN'T DESCRIBE WHAT MY DRAW DOES!
-*/
+ * Draws items
+ */
 function draw() {
 
 }
