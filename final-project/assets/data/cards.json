@@ -1,0 +1,160 @@
+{
+    "description": "Card possibilities",
+    "packs": [
+        {
+            "name": "Basic",
+            "cost": 50,
+            "odds": {
+                "Common": 0.75,
+                "Rare": 0.2,
+                "Epic": 0.045,
+                "Legendary": 0.004,
+                "Mythical": 0.001
+            }
+        },
+        {
+            "name": "Silver",
+            "cost": 200,
+            "odds": {
+                "Common": 0.3,
+                "Rare": 0.4,
+                "Epic": 0.07,
+                "Legendary": 0.01,
+                "Mythical": 0.01
+            }
+        },
+        {
+            "name": "Gold",
+            "cost": 800,
+            "odds": {
+                "Common": 0,
+                "Rare": 0.2,
+                "Epic": 0.4,
+                "Legendary": 0.3,
+                "Mythical": 0.1
+            }
+        }
+    ],
+    "flowers": [
+        {
+            "name": "Clover",
+            "price": 30,
+            "rarity": "Common",
+            "odds": 0.6,
+            "image": "../images/front-clover.png",
+            "back": "../images/back-common.png"
+        },
+        {
+            "name": "Daisy",
+            "price": 30,
+            "rarity": "Common",
+            "odds": 0.6,
+            "image": "../images/front-daisy.png",
+            "back": "../images/back-common.png"
+        },
+        {
+            "name": "Peony",
+            "price": 30,
+            "rarity": "Common",
+            "odds": 0.6,
+            "image": "../images/front-peony.png",
+            "back": "../images/back-common.png"
+        },
+        {
+            "name": "Poppy",
+            "price": 30,
+            "rarity": "Common",
+            "odds": 0.6,
+            "image": "../images/front-poppy.png",
+            "back": "../images/back-common.png"
+        },
+        {
+            "name": "Tulip",
+            "price": 30,
+            "rarity": "Common",
+            "odds": 0.6,
+            "image": "../images/front-tulip.png",
+            "back": "../images/back-common.png"
+        },
+        {
+            "name": "Violet",
+            "price": 30,
+            "rarity": "Common",
+            "odds": 0.6,
+            "image": "../images/front-violet.png",
+            "back": "../images/back-common.png"
+        },
+        {
+            "name": "Bluebell",
+            "price": 90,
+            "rarity": "Rare",
+            "odds": 0.25,
+            "image": "../images/front-bluebell.png",
+            "back": "../images/back-rare.png"
+        },
+        {
+            "name": "Forget-me-not",
+            "price": 90,
+            "rarity": "Rare",
+            "odds": 0.25,
+            "image": "../images/front-forget-me-not.png",
+            "back": "../images/back-rare.png"
+        },
+        {
+            "name": "Iris",
+            "price": 90,
+            "rarity": "Rare",
+            "odds": 0.25,
+            "image": "../images/front-iris.png",
+            "back": "../images/back-rare.png"
+        },
+        {
+            "name": "Moonflower",
+            "price": 300,
+            "rarity": "Epic",
+            "odds": 0.1,
+            "image": "../images/front-moonflower.png",
+            "back": "../images/back-epic.png"
+        },
+        {
+            "name": "Nova",
+            "price": 300,
+            "rarity": "Epic",
+            "odds": 0.1,
+            "image": "../images/front-nova.png",
+            "back": "../images/back-epic.png"
+        },
+        {
+            "name": "Orchid",
+            "price": 300,
+            "rarity": "Epic",
+            "odds": 0.1,
+            "image": "../images/front-orchid.png",
+            "back": "../images/back-epic.png"
+        },
+        {
+            "name": "Goldrose",
+            "price": 1000,
+            "rarity": "Legendary",
+            "odds": 0.04,
+            "image": "../images/front-goldrose.png",
+            "back": "../images/back-legendary.png"
+        },
+        {
+            "name": "Sunpetal",
+            "price": 1000,
+            "rarity": "Legendary",
+            "odds": 0.04,
+            "image": "../images/front-sunpetal.png",
+            "back": "../images/back-legendary.png"
+        },
+        {
+            "name": "Valley Lily",
+            "price": 5000,
+            "rarity": "Mythical",
+            "odds": 0.01,
+            "image": "../images/front-valley-lily.png",
+            "back": "../images/back-mythical.png"
+        }
+    ]
+}
